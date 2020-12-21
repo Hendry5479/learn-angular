@@ -37,4 +37,4 @@ export class TestComponent implements OnInit, OnChanges, AfterContentInit {
 ```
 运行结果
 
-![](![](2020-12-21-09-12-47.png).png)
+![](2020-12-21-09-12-47.png)
